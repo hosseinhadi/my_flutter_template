@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
-import 'package:flutter_app6/app/routes/app_pages.dart';
-import 'package:flutter_app6/app/ui/android/pages/temp_page.dart';
+import 'package:my_flutter_template/app/routes/app_pages.dart';
+import 'package:my_flutter_template/app/ui/android/pages/temp_page.dart';
 import 'package:get/route_manager.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:flutter_statusbarcolor/flutter_statusbarcolor.dart';

@@ -1,5 +1,5 @@
-import 'package:flutter_app6/app/bindings/binding.dart';
-import 'package:flutter_app6/app/ui/android/pages/home/home_page.dart';
+import 'package:my_flutter_template/app/bindings/binding.dart';
+import 'package:my_flutter_template/app/ui/android/pages/home/home_page.dart';
 import 'package:get/get.dart';
 export 'app_pages.dart';
 // import 'package:getx_pattern/app/bindings/details_binding.dart';
